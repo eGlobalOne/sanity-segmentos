@@ -1,0 +1,2 @@
+# sanity-segmentos
+GitHub Pages
